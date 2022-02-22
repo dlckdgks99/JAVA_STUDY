@@ -1,0 +1,22 @@
+The rapid development of mobile applications and Internet-of-things (IoT) paradigm-based applications
+has brought several challenges to the development of cloud-based solutions.
+
+These challenges are mainly due to i) the transfer of huge amounts of data to the cloud,
+ii) high communication latencies and iii) the inability of this model to respond in some domains that require a rapid reaction to events.
+
+Increased awareness in industrial environments such as the artificial intelligenceInternet of Things (AIoT) has led organizations to rethink their infrastructures by adopting cloud, fog, and edge computing architectures. These architectures allow them to take advantage of a multitude of computing and data storage resources.
+
+Cloud, fog, and edge computing may look very similar terms, but they have some differences, functioning as different layers on the AIoT horizon that complement each other.
+Cloud computing
+Cloud computing can be defined as a model for the provision and use of Information and Communication Technologies, which allows remote access over the internet to a range of shared computing resources in the form of services.
+
+This computer system can be divided into two parts: frontend (client devices) and backend (servers); while the models for computing service delivery are divided into three: Infrastructure-as-a-Service (IaaS); ¡°Platform-as-a-Service (PaaS); and Software-as-a-Service (SaaS).
+
+Adopting these architectures brings benefits to organizations, from performance, availability, scalability, communication between IoT sensors and processing systems, and increased storage and processing capabilities.
+
+Fog computing
+In turn, fog computing was a term coined by Cisco in 2014 as a means of bringing cloud computing capabilities closer to the network. It is a decentralized computing architecture where data, communications, storage, and applications are distributed between the data source and the cloud. That is, it is a horizontal architecture that shares resources and services stored anywhere in the cloud to Internet of Things devices.
+
+In a very brief and simplified way, fog computing will be the fog layer below the cloud layer, managing the connections between the cloud and the network edge.
+
+The big difference between fog computing and cloud computing is that it is a centralized system while the former is a distributed decentralized infrastructure. In the following table, a comparison is presented.
